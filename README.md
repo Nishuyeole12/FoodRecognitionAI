@@ -1,4 +1,13 @@
-Download My Dataset = https://www.kaggle.com/datasets/faldoae/padangfood
+## 🧪 Dataset Information
+
+- **Dataset Name:** Padang Food Image Dataset
+- **Source:** [Kaggle - Padang Food Dataset](https://www.kaggle.com/datasets/faldoae/padangfood)
+- **Total Classes:** Traditional Indonesian food items (e.g., Nasi Goreng, Sate, Rendang, etc.)
+- **Image Format:** JPG
+- **Structure:** Labeled folders for each food category
+
+> 📥 You can download the dataset from the link above and place it inside the `/dataset/` folder for training and testing.
+
 
 # 🍕 Food Image Classifier using CNN
 
