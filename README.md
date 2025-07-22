@@ -5,7 +5,7 @@ This deep learning model uses a **Convolutional Neural Network (CNN)** to recogn
 
 > ✅ This project was developed as part of my 3rd-year B.Tech (AIDS) coursework at **Sanjivani College of Engineering**, with the goal of applying computer vision to real-world image classification tasks.
 
----
+
 
 ## 📌 Project Overview
 
@@ -15,7 +15,6 @@ This deep learning model uses a **Convolutional Neural Network (CNN)** to recogn
 
 This AI model helps in identifying food items from images using supervised learning and convolutional layers, and it has been trained and tested with a labeled dataset of popular food images.
 
----
 
 ## 🧠 Technologies & Tools Used
 
@@ -28,7 +27,6 @@ This AI model helps in identifying food items from images using supervised learn
 | OpenCV | Image Processing |
 | Jupyter Notebook | Model Training & Visualization |
 
----
 
 ## 🏗️ CNN Architecture Summary
 
@@ -39,10 +37,6 @@ This AI model helps in identifying food items from images using supervised learn
 - **Activation Functions**: ReLU, Softmax
 - **Optimizer**: Adam
 - **Loss Function**: Categorical Crossentropy
-
----
-
-## 📂 Project Structure
 
 
 
